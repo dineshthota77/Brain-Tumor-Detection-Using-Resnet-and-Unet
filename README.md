@@ -50,8 +50,8 @@ cd Brain-Tumor-Detection-Using-Resnet-and-Unet
 
 
 ---
-##
-### 2. Download the Pretrained Model
+
+## 2. Download the Pretrained Model
 
   The trained `.keras` model is not included in this repository due to GitHub’s 100 MB file size limit.
 
@@ -74,7 +74,7 @@ so download it and in main.py update the paths)***OPTIONAL
 
 ---
 
-# OUTPUT :  
+## OUTPUT :  
 
 
 
